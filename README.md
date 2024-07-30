@@ -13,4 +13,4 @@ Este repositório é dedicado ao estudo de técnicas de web scraping usando Pyth
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/web-scraping-python.git
+   git clone https://github.com/suzy-dev/Web-Scrapping.git
